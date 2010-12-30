@@ -1,0 +1,57 @@
+#backgroundSky.jpg
+#theme 1
+#extra 20,100,cloud1
+#extra 80,50,cloud2
+#extra 100,400,cloud3
+#extra 400,600,cloud4
+#extra 230,510,cloud5
+#extra 650,480,cloud6
+#extra 150,680,cloud6
+#extra 230,570,cloud5
+#extra 650,430,cloud6
+#extra 150,690,cloud6
+#extra 420,400,cloud7
+#extra 420,440,cloud7
+#extra 500,300,cloud8
+#extra 750,380,cloud6
+#extra 20,130,cloud1
+#extra 80,80,cloud2
+#extra 100,460,cloud3
+#extra 400,650,cloud4
+#extra 500,370,cloud8
+#extra 750,310,cloud6
+#extra 20,100,cloud1
+#extra 70,310,treeHouse1
+#extra 90,769,bushes2
+#extra 120,790,bushes1
+#extra 620,790,bushes2
+#extra 970,832,fence4
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+    %
+             !            %
+
+
+             %      %
+I                               I
+I   III              IIIII      I
+I  IIIII             I          I
+I                    IIIII      I
+I   II       III          I     I
+I           IIIII    IIIII      *002
+I        III           I  
+I                   
+IIIIIIIIIIIIIIIII   IIIIIIIIIIIII
+IIIIIIIIIIIIIIIII   IIIIIIIIIIIII
+      %
+                   IIII      II
+      II         II
+     IIII             III
+    IIIIII             
+   II       II          %
+   II %            III   
+   II
+IIIIIIII         %     III
+@006
+
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII

@@ -1,0 +1,23 @@
+#backgroundSky.jpg
+#extra 1056,576,bushes2.png
+#theme 1
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+II         				     
+I               %    !         %              
+I                                        *001
+I            %            %                  
+I                 I                     II  I
+I          IIIIIIII                   %     I
+I       %  I          %                     I
+I          I                   II      IIIIII
+I     I    I                           IIIIII
+I     I    I    IIIII    !           ! IIIIII
+I     IIIIII                           IIIIII
+I                   !          II      IIIIII
+I                              II  !   IIIIII
+         %                  IIIII      IIIIII
+                         IIIIIIII      IIIIII
+@011                   IIIIIIIIII      IIIIII
+             IIIIIIIIIIIIIIIIIIII      IIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII

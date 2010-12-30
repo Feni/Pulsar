@@ -1,0 +1,22 @@
+#backgroundSky.jpg
+#theme 1
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+II         				     
+I               %                            
+I                                        *012
+I            %            %                  
+I                 I                     II  I
+I          IIIIIIII                   %     I
+I       %  I                                I
+I          I      %   %        II   IIIIIIIII
+I     I    I                        IIIIIIIII
+I     I    I    IIIII             IIIIIIIIIII
+I     IIIIII                   IIIIIIIIIIIIII
+I                              IIIIIIIIIIIIII
+I                              IIIIIIIIIIIIII
+         %                  IIIIIIIIIIIIIIIII
+                         IIIIIIIIIIIIIIIIIIII
+@010                   IIIIIIIIIIIIIIIIIIIIII
+             IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII

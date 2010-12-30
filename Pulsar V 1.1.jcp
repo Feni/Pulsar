@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Pulsar V 1.1</label>
+		<root_path>\</root_path>
+		<output_path>\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref>JDK version 1.6.0_11</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>PulsarBeta1.Game</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>AggressiveMonster.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Animation.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Attack.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Game.java</path>
+			</fileitem>
+			<fileitem>
+				<path>GameDisplay.java</path>
+			</fileitem>
+			<fileitem>
+				<path>GameMap.java</path>
+			</fileitem>
+			<fileitem>
+				<path>GameMenu.java</path>
+			</fileitem>
+			<fileitem>
+				<path>GameObject.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Input.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Item.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Monster.java</path>
+			</fileitem>
+			<fileitem>
+				<path>orangeMushroom.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Player.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Theme.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Tile.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

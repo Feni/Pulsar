@@ -1,0 +1,101 @@
+#backgroundSky.jpg
+#theme 1
+#extra 20,100,cloud1
+#extra 80,50,cloud2
+#extra 200,400,cloud3
+#extra 100,600,cloud4
+#extra 230,610,cloud5
+#extra 350,580,cloud6
+#extra 150,580,cloud6
+#extra 420,540,cloud7
+#extra 500,400,cloud8
+#extra 750,380,cloud6
+#extra 200,135,tree2
+#extra 580,50,tree1
+#extra 700,632,statue1
+#extra 370,632,statue2
+#extra 750,779,plant1
+#extra 190,494,tree1
+#extra 0,853,grass1
+#extra 0,890,grassSoil5
+#extra 90,853,grass1
+#extra 90,890,grassSoil3
+#extra 180,853,grass2
+#extra 180,890,grassSoil2
+#extra 270,853,grass1
+#extra 270,890,grassSoil1
+#extra 360,853,grass2
+#extra 360,890,grassSoil4
+#extra 450,853,grass1
+#extra 450,890,grassSoil5
+#extra 540,853,grass2
+#extra 540,890,grassSoil3
+#extra 630,853,grass1
+#extra 630,890,grassSoil2
+#extra 720,853,grass1
+#extra 720,890,grassSoil5
+#extra 810,853,grass1
+#extra 810,890,grassSoil3
+#extra 900,853,grass2
+#extra 900,890,grassSoil2
+#extra 990,853,grass1
+#extra 990,890,grassSoil1
+#extra 1080,853,grass2
+#extra 1080,890,grassSoil4
+#extra 1170,853,grass1
+#extra 1170,890,grassSoil5
+#extra 1260,853,grass2
+#extra 1260,890,grassSoil3
+#extra 1350,853,grass1
+#extra 1350,853,grassSoil2
+#extra 0,384,grass1
+#extra 0,423,grassBottom1
+#extra 90,384,grass1
+#extra 90,423,grassBottom1
+#extra 180,384,grass1
+#extra 180,423,grassBottom1
+#extra 270,384,grass1
+#extra 270,423,grassBottom1
+#extra 360,384,grass1
+#extra 360,423,grassBottom1
+#extra 450,384,grass1
+#extra 450,423,grassBottom1
+#extra 720,384,grass1
+#extra 720,423,grassBottom1
+#extra 810,384,grass1
+#extra 810,423,grassBottom1
+#extra 900,384,grass1
+#extra 900,423,grassBottom1
+#extra 990,384,grass1
+#extra 990,423,grassBottom1
+#extra 288,836,crate1
+#extra 340,836,crate2
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+    %
+         %                   
+      %
+                        
+   !
+           %
+
+
+                   %
+
+IIIIIIIIIIIIIIIIII    IIIIIIIIIII
+IIIIIIIIIIIIIIIIII    IIIIIIIIIII
+
+                    !
+
+  %
+               I  
+              I    
+I                               I
+I                  %            I
+I  IIIII                %       I
+I                               I
+I                               I
+@005           IIIII            *001
+         iii                    
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii

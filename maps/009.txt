@@ -1,0 +1,108 @@
+#backgroundSky.jpg
+#theme 1
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+
+
+            I
+@008       I
+          I    I
+I        I I I I I                I
+I              I                  I
+I                                 I
+I                                 I
+I                              %  I
+I              IIIII     %        I
+I              III                I
+I                                 I
+I        %            %           I
+I                                 I
+I                                 I
+I                                 I
+I                                 I
+I                      IIIIIIIIIIII
+I              %                  I
+I                                 I
+I                                 I
+I                                 I
+I     %                           I
+I                                 I
+I                                 I
+I                                 I
+I          IIIIIIIIIIII           I
+I  !                              I
+I                              %  I
+I                                 I
+I                                 I
+I                                 I
+I                %       IIIIIIIIII
+I      !                          I
+I                                 I
+I                                 I
+I                                 I
+I                              %  I
+I               IIIIIIII          I
+I             !                   I
+I                                 I
+I                          %      I
+I                                 I
+I                                 I
+I           II                    I
+I            II                   I
+I              II                 I
+I                II               I
+I                  II             I
+I                    II       IIIII
+I                                 I
+I           % % % % % % % %       I
+I                                 I
+I                                 I
+I                                 I
+I                                 I
+I                                 I
+I            IIIIIIIIIIIIIII      I
+I                                 I
+I                                 I
+I                                 I
+I                                 I
+I                           IIII  I
+I                                 I
+I         IIIIIII                 I
+I                                 I
+I      % % % % % % % % % % % % %  I
+I                                 I
+I                                 I
+I                         IIIIIIIII
+I                                 I
+I                                 I
+I                                 I
+I            IIIIIIIIIIIIIIII     I
+I  !                              I
+I                                 I
+I    !                         IIII
+I                                 I
+I      !                          I
+I                                 I
+I         !                IIIIIIII
+I                                 I
+I                                 I
+I     !         IIIIIIIIIIIIIIIIIII
+I                                 I
+I  %                              I
+I                                 I
+I            IIIIIIIII            I
+I                                 I
+I                                 I
+I                      IIIIIIIII  I
+I                                 I
+I                                 I
+I                                 I
+I              IIIIIIIIII         I
+I                                 I
+I                                 I
+I                                  
+I       I                          
+I	I               IIIIII    *010
+I	I			   
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII

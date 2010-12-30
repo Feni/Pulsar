@@ -1,0 +1,27 @@
+#backgroundSky.jpg
+#theme 1
+#extra 20,100,cloud1
+#extra 80,50,cloud2
+#extra 100,400,cloud3
+#extra 400,600,cloud4
+#extra 230,510,cloud5
+#extra 650,480,cloud6
+#extra 150,680,cloud6
+#extra 420,440,cloud7
+#extra 500,300,cloud8
+#extra 750,380,cloud6
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+
+
+   !     II I  I 
+            I   
+            I  
+I           I       !             I
+I        II I  I                  I
+I                                 I
+I                                 I
+@001                              *004 
+              IIIII   I          
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII

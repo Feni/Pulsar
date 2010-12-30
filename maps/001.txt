@@ -1,0 +1,54 @@
+#backgroundSky.jpg
+#theme 1
+#extra 70,500,cloud6
+#extra 350,0,cloud7
+#extra 480,10,cloud8
+#extra 920,75,cloud8
+#extra 50,400,fence1
+#extra 650,400,fence1
+#extra 50,415,barrel
+#extra 0,430,grassyLayer
+#extra 335,430,grassyLayer
+#extra 672,430,grassyLayer
+#extra 1009,430,grassyLayer
+#extra 1340,430,grassyLayer
+#extra 1300,140,hut1
+#extra 300,360,largeMushrooms
+#extra 1730,160,tree2
+#extra 2000,110,tree1
+#extra 2160,300,tree5
+#extra 2200,200,tree3
+#extra 2300,140,tree4
+#extra 2260,300,tree5
+#extra 0,450,rockGrassLong1
+#extra 60,450,rockGrassLong2
+#extra 120,450,rockGrassLong3
+#extra 180,450,rockGrassLong1
+#extra 240,450,rockGrassLong2
+#extra 270,450,rockGrassLong3
+#extra 360,450,rockGrassLong1
+#extra 420,450,rockGrassLong2
+#extra 480,450,rockGrassLong3
+#extra 540,450,rockGrassLong1
+#extra 600,450,rockGrassLong2
+#extra 660,450,rockGrassLong3
+#extra 720,450,rockGrassLong1
+#extra 780,450,rockGrassLong2
+#extra 840,450,rockGrassLong3
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+
+
+
+
+
+
+I                                                                            I
+I                   !       III                                              I
+IIII    %                                                 
+                                                               I
+I                            %      III                                      I
+I             IIIII      %                                                   I
+@002    I     II     I              III                                      *003
+        I     II     I              III                                      
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
